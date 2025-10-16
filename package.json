@@ -1,0 +1,32 @@
+{
+
+  "name": "sahroni",
+
+  "version": "1.0.0",
+
+  "description": "Cek bio",
+
+  "main": "index.js",
+
+  "scripts": {
+
+    "start": "node index.js"
+
+  },
+
+  "dependencies": {
+
+    "@whiskeysockets/baileys": "npm:@kriszz-hayanasi/baileys",
+
+    "axios": "^1.12.2",
+
+    "jimp": "^0.16.13",
+
+    "pino": "^8.15.1",
+
+    "telegraf": "^4.15.3"
+
+  }
+
+}
+
